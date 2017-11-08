@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.d(TAG, "onCreate: " + "Hello Ignorant Iguanas");
+        Log.d(TAG, "onCreate: " + "Hello JACP");
         //Change test
         //Commit test
 
